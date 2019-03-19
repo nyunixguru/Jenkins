@@ -10,3 +10,4 @@ http://localhost:8080
 sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 
 Change Jenkins shell to /bin/bash in /etc/passwd
+sudo su - jenkins
